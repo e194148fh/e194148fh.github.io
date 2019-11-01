@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    font-size:50px;
+    font-weght: bold;
+    font-familiy:"Impact";
+    text-align: center;
+    background-color:antiquewhite
+}
+
+body{
+    background-image: url("../images/hourse race color2.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    
+}
+h2{ 
+    color: yellow;
+    text-align: center;
+    background-color: cyan;
+}
