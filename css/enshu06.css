@@ -3,4 +3,13 @@ h1{
     font-size:50px;
     font-weght: bold;
     font-familiy:"Impact";
+    text-align: center;
+    background-color: aquamarine
+}
+
+body{
+    background-image: url("../images/sw.jfif");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
 }
