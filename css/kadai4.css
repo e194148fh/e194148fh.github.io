@@ -1,0 +1,33 @@
+h1{
+    color: yellow;
+    font-size:50px;
+    font-weight: bold;
+    font-family:"Impact";
+    text-align: center;
+    background-color:black
+}
+
+
+body{
+    background-image: 
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+    background-image: url("../images/sky.jfif");
+}
+h2{ 
+    color: skyblue;
+    text-align: center;
+    background-color: black;
+}
+
+p.redcolor{
+    color: red;
+    font-size: 30;
+}
+p.aquamarinecolor{
+    color: aquamarine;
+}
+p.yelow{
+    color: yellow;
+}
