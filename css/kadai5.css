@@ -1,0 +1,90 @@
+div.title{
+    width:1000px;
+    height:50px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 40px;
+    font-family: "Impact";
+      margin-bottom:20px;
+}
+div.main{
+   
+    width:1000px;
+    height:300px;
+  
+    font-size: 0px;
+    fosnt-family: "Impact";
+    margin-bottom: 50px;
+    
+}
+div.menu{
+    display:inline-block;
+    versstical-align : top;
+   
+    width:250px;
+    height:300px;
+   
+    color:black;
+    font-size: 0px;
+    vertical-align : top;
+    margin-right: 50px;
+  
+}
+div.menu1{
+    width:250px;
+    height:100px;
+ font-size: 20px;
+    margin-bottom: 10px;
+     background-color: red;
+}
+
+div.menu2{
+    width:250px;
+    height:100px;
+    font-size: 20px;
+    margin-bottom: 10px;
+     background-color: red;
+}
+
+div.menu3{
+    width:250px;
+    height:100px;
+    font-size: 20px;
+         margin-bottom: 10px;
+     background-color: red;
+}
+
+div.images{
+     display:inline-block;
+    vertical-align : top;
+   width: 700px; 
+    height:320px;
+    background-color: yellow;
+     font-size: 20px;
+    vertical-align : top;
+}
+div.img{
+    width:700px;
+    height:300px;
+}
+div.write{
+    width:700px;
+    height:20px;
+    color:black;
+    background-color: fuchsia;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    text-align: right;
+    background-color: cadetblue;
+   
+    font-size: 40px;
+font-family: "Impact";
+}
+
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
