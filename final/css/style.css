@@ -1,0 +1,103 @@
+
+
+div.title{
+    width:1000px;
+    height:50px;
+    background-color: aquamarine;
+    text-align: left;
+    font-size: 40px;
+    font-family: "Impact";
+      margin-bottom:20px;
+    text-align: center;
+}
+
+
+div.menu{
+ 
+    versstical-align : top;
+   
+    width:100%;
+    height:180px;
+   
+    color:black;
+    font-size: 0px;
+    vertical-align : top;
+    margin-right: 50px;
+  
+}
+div.menu1{
+    display:inline-block;
+    width:20%;
+    height:100px;
+ font-size: 20px;
+    font-family: serif;
+    margin-bottom: 10px;
+     text-align: center;
+}
+
+div.a{
+    background-color: red;
+}
+div.b{
+    background-color: lightskyblue;
+}
+div.c{
+    background-color: yellow;
+}
+div.d{
+    background-color: greenyellow;
+}
+div.e{
+    background-color: orange;
+}
+div.contents{
+    text-align: center;
+     display:inline-block;
+    vertical-align : top;
+   width: 100%; 
+    height:1200px;
+    background-color: beige;
+     font-size: 20px;
+    vertical-align : top;
+}
+div.content1{
+    display:inline-block;
+    width:49%;
+    height:300px;   
+    text-align: center;
+    
+}
+div.content2{
+    display:inline-block;
+      width:49%;
+    height:420px;   
+text-align: center;
+   margin-top: -100px;
+}
+div.content3{
+    display: inline-block;
+    width:39%;
+    height:300px;
+    text-align: center;
+  
+}
+div.content4{
+    display: inline-block;
+    width:49%;
+    height:380px;
+    text-align: center;
+}
+div.content5{
+    display: inline-block;
+    width:100%;
+    height:300px;
+    text-align: center;
+}
+
+div.wrap{
+    width:1000px;
+
+    margin:0px auto;
+    background-color: antiquewhite;
+}
+
